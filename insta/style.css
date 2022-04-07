@@ -1,0 +1,43 @@
+body{
+    background-color: gray;
+    
+}
+.post{
+    
+    background-color: white;
+    width: 1136px;
+    height: 1320px
+}
+.post-header{
+    display: flex
+    
+
+}
+#name{
+    align-content: column;
+}
+
+.htmlicon{
+    padding: 35px;
+}
+
+
+.html{
+    margin-right: 780px;
+}
+
+.bookmark{
+    margin-left: 670px;
+}
+
+.postinfo{
+    font-size: 25px;
+}
+.bolded{
+    font-weight: bold;
+}
+
+.postcomment{
+    font-size: 20px;
+    margin-right: 50px;
+}
